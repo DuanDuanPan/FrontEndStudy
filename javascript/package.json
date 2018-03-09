@@ -1,0 +1,24 @@
+{
+  "name": "learnjavascript",
+  "version": "1.0.0",
+  "description": "demo about javascript",
+  "main": "learn.js",
+  "scripts": {
+    "start": "node learn.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "DuanDuanPan",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "javascript-state-machine": "^3.0.1",
+    "node-fetch": "^2.1.1",
+    "thunkify": "^2.1.2"
+  }
+}
